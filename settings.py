@@ -24,12 +24,12 @@ class SymbolData:
 
 
 class skillData:
-    login = 'ПОРУССКИ'
-    password = "ПОРУССКИ"
+    login = 'скиллфактори'
+    password = "скиллфактори"
 
 
 class BIGData:
-    login = 'login'
+    login = 'janitta'
     password = "123"
 
 
